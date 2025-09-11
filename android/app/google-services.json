@@ -1,57 +1,42 @@
 {
   "project_info": {
-    "project_number": "626390741302",
-    "project_id": "thintava-ee4f4",
-    "storage_bucket": "thintava-ee4f4.firebasestorage.app"
+    "project_number": "429051439107",
+    "project_id": "thintava2",
+    "storage_bucket": "thintava2.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:626390741302:android:1c149a60f3ac2f952ec397",
+        "mobilesdk_app_id": "1:429051439107:android:b31f0938cbae63d5f34636",
         "android_client_info": {
-          "package_name": "com.thintava.app"
+          "package_name": "com.thintava2.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "626390741302-0ci9rousabbkr0nogbdk63ej2nqdsb6l.apps.googleusercontent.com",
+          "client_id": "429051439107-87q20bcbclioj5vl43jqdhjhagpd3jsl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.thintava.app",
-            "certificate_hash": "9a3f0f12c9d204043297c96d93bd4d47e583f1b2"
+            "package_name": "com.thintava2.app",
+            "certificate_hash": "b4b10ddd3d53d46bd9d784be36bb4ef9d3647fb2"
           }
         },
         {
-          "client_id": "626390741302-k46rhl2j79lrf9l0nj75a1imt4u8o974.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.thintava.app",
-            "certificate_hash": "15d08f0da766505c71bee15d69080e9f73d4120a"
-          }
-        },
-        {
-          "client_id": "626390741302-hdos41tejvoohcstsmgbree6fevk7sp6.apps.googleusercontent.com",
+          "client_id": "429051439107-96o71q1f1jl25lnqb4h4dvr5pm9p67nv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjCCnzeERfNzxA28wz0dVdbC6Cs6b8R_U"
+          "current_key": "AIzaSyCUIhov47JaVreRYYxgrCPQFkF0UhHkmlk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "626390741302-hdos41tejvoohcstsmgbree6fevk7sp6.apps.googleusercontent.com",
+              "client_id": "429051439107-96o71q1f1jl25lnqb4h4dvr5pm9p67nv.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "626390741302-2lh4d340v3ibita3ei154nkkg5sikvms.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.thintava"
-              }
             }
           ]
         }
