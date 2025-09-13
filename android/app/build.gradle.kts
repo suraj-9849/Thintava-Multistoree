@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.thintava.app"
+    namespace = "com.thintava2.app"
     compileSdk = 35
     ndkVersion = "27.0.12077973"
 
@@ -21,7 +21,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.thintava.app"
+        applicationId = "com.thintava2.app"
         minSdk = 23
         targetSdk = 35
         versionCode = flutter.versionCode
