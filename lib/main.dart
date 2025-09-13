@@ -66,12 +66,12 @@ Future<void> _initializeFirebase() async {
     if (kIsWeb) {
       await Firebase.initializeApp(
         options: const FirebaseOptions(
-          apiKey: "AIzaSyCPsu2kuSKa9KezLhZNJWUF4B_n5kMqo4g",
-          authDomain: "thintava-ee4f4.firebaseapp.com",
-          projectId: "thintava-ee4f4",
-          storageBucket: "thintava-ee4f4.firebasestorage.app",
-          messagingSenderId: "626390741302",
-          appId: "1:626390741302:ios:0579424d3bba31c12ec397",
+          apiKey: "AIzaSyCUIhov47JaVreRYYxgrCPQFkF0UhHkmlk",
+          authDomain: "thintava2.firebaseapp.com",
+          projectId: "thintava2",
+          storageBucket: "thintava2.firebasestorage.app",
+          messagingSenderId: "429051439107",
+          appId: "1:429051439107:android:b31f0938cbae63d5f34636",
           measurementId: "",
         ),
       );

@@ -406,7 +406,7 @@ class CartPaymentHandler {
     }
 
     var options = {
-      'key': 'rzp_live_cDOinLBuxva4w0',
+      'key': 'rzp_live_RGMjFYcXzOvb2o',
       'amount': (total * 100).toInt(),  // ✅ Total includes platform fee
       'currency': 'INR',
       'name': 'Thintava',
