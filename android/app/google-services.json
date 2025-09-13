@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "429051439107-aheg3d29jlv6o5s7m60c6jm0isl70q6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thintava2.app",
+            "certificate_hash": "e3891be6e0b5470b991f7578c8e580e7267a1f4d"
+          }
+        },
+        {
           "client_id": "429051439107-96o71q1f1jl25lnqb4h4dvr5pm9p67nv.apps.googleusercontent.com",
           "client_type": 3
         }
